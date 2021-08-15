@@ -1,5 +1,5 @@
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Kedar-Khedkar/Language-Translator-?style=for-the-badge">
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) ![GitHub Repo stars](https://img.shields.io/github/stars/prathmeshghate/Crypto-Market-Value?style=for-the-badge)
 
 # Crypto-Market-Value
 Hey Guys, Prathmesh Ghate here, I am Data Sceience and Python enthusiast.In this project I've made a Cryptocurrecy value project.<br>
